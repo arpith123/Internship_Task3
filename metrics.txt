@@ -1,0 +1,13 @@
+MAE: 0.533200
+MSE: 0.555892
+R2: 0.575788
+Coefficients (feature -> weight):
+MedInc: 0.852382
+HouseAge: 0.122382
+AveRooms: -0.305116
+AveBedrms: 0.371132
+Population: -0.002298
+AveOccup: -0.036624
+Latitude: -0.896635
+Longitude: -0.868927
+Intercept: 2.067862
